@@ -1,0 +1,8 @@
+.flash{
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+    width: 20%;
+    z-index: 1000000;
+    text-align: center;
+}
